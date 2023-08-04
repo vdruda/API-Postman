@@ -13,4 +13,4 @@
 3.  В теле запроса для создания питомца сделать динамические значения, которые будут автоматически генерироваться при отправке
 
 Решение: https://www.postman.com/solar-comet-944091/workspace/tests-workspace/collection/25112375-d91c492e-3e5c-4b63-9d43-4d6f670b42bf
-![image](https://github.com/vdruda/API-Postman/assets/141385609/bd91f485-53bc-4aaa-bf46-39be75d618bb)
+
